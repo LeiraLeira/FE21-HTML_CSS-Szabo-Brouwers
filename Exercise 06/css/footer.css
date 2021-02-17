@@ -1,0 +1,25 @@
+footer { 
+    height: 50px;
+    background-color:#CB0403;
+    display: flex;
+    flex-direction: row;
+    margin-top: auto; 
+    color: #ddd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.copy {
+    font-size: 10px;
+
+}
+
+  footer ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer li {
+    display: block;
+    text-transform: uppercase;
+    font-size: 14px;
+}

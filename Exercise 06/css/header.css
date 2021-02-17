@@ -1,0 +1,27 @@
+.page-header{
+    height: 100px;
+    background-color:#CB0403;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+header img {
+    width: 200px;
+}
+
+header nav {
+    width: 100%;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+header li {
+    display: block;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ddd;
+}

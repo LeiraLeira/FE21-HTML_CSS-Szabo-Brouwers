@@ -1,4 +1,11 @@
+body{ 
+    height: 100vh;
+    display:flex; 
+    flex-direction:column; 
+  }
+
 .flexparent {
     display: flex;
     flex-direction: row;
 }
+

@@ -1,0 +1,8 @@
+main article {
+    display: flex;
+    width: 100%;
+}
+
+main article img {
+    width: 400px;
+}
