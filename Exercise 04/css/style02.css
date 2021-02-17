@@ -1,0 +1,16 @@
+#third>p {
+    visibility: visible;
+}
+
+h1 {
+    visibility: visible;
+}
+
+#second>* {
+    visibility: visible;
+}
+
+/* not sure if this element is meant */
+#first #third>p {
+    font-size: 2em;
+}
