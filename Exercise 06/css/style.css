@@ -1,0 +1,4 @@
+.flexparent {
+    display: flex;
+    flex-direction: row;
+}
